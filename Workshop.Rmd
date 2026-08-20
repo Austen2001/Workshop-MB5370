@@ -1,5 +1,5 @@
 ---
-title: "Workshop 2"
+title: "Programming Fundamentals - Workshop 2"
 author: "Austen Wong Won"
 date: "2026-05-20"
 output: html_document
@@ -266,3 +266,4 @@ ggplot(data = mpg) +
      position = <POSITION>
   ) +
   <FACET_FUNCTION>
+  
