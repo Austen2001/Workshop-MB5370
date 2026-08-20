@@ -1,12 +1,21 @@
-# Workshop MB5370
+# Programming Fundamentals
 
-This repository contains my MB5370 programming workshop files.
+This repo contains my work from the Programming Fundamentals module in MB5370.
 
-## Folders
+## About
 
-code: scripts and analysis code  
-data: raw or working data files  
-docs: reports and written documents  
-output: figures, tables, and exported results
+This module introduced the basics of working in R, including data handling, visualisation, project organisation, Git and GitHub.
 
-This repository will be updated as I complete MB5370 workshop activities.
+## Repository structure
+
+`code/` contains scripts and analysis code.
+
+`data/` contains the datasets used in the workshops.
+
+`docs/` contains reports and written work.
+
+`output/` contains figures, tables and exported results.
+
+## Data
+
+The datasets in this repo were provided through the MB5370 Programming Fundamentals workshops.
