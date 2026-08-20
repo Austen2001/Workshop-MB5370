@@ -266,7 +266,3 @@ ggplot(data = mpg) +
      position = <POSITION>
   ) +
   <FACET_FUNCTION>
-  
-# Workshop 3
-
-# Git workflow practice for Workshop 3
